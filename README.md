@@ -91,5 +91,5 @@ ai_game_chat/
 如有任何问题或建议，请通过以下方式联系我们：
 
 - GitHub Issues
-- 电子邮件：support@example.com
+- 电子邮件：ac.catmore3055@gmail.com
 
