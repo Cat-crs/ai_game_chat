@@ -94,5 +94,5 @@ pip install -r requirements.txt
 
 如果您在安装过程中遇到任何问题，请通过以下方式联系我们：
 - 提交GitHub Issue
-- 发送邮件至：support@example.com
+- 发送邮件至：ac.catmore3055@gmail.com
 
