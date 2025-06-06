@@ -20,7 +20,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/ai_game_chat.git
+git clone https://github.com/Cat-crs/ai_game_chat.git
 cd ai_game_chat
 
 # 创建虚拟环境
