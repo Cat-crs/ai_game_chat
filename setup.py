@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="ai_game_chat",
     version="1.0.0",
-    author="AI Game Chat Project",
-    author_email="support@example.com",
+    author="Cat",
+    author_email="ac.catmore3055@gmail.com",
     description="AI游戏（五子棋/围棋）和聊天功能",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
