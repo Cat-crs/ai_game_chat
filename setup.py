@@ -8,7 +8,7 @@ setup(
     description="AI游戏（五子棋/围棋）和聊天功能",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ai_game_chat",
+    url="https://github.com/Cat-crs/ai_game_chat",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
