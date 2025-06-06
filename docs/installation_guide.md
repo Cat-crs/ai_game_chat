@@ -14,7 +14,7 @@
 ### 1. 克隆项目仓库
 
 ```bash
-git clone https://github.com/yourusername/ai_game_chat.git
+git clone https://github.com/Cat-crs/ai_game_chat.git
 cd ai_game_chat
 ```
 
